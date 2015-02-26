@@ -13,7 +13,7 @@
  	private $api_url   		= 'https://id.okezone.com/api';
  	private $okezone_id_url = 'https://id.okezone.com';
  	private $url_callback 	= 'http://127.0.0.1/sso-php/demo.php/';
-	private $client_id	  	= "16d3ea8384fb0b9755ca105563741832";
+	private $client_id	  	= "";
 	private $sess_lib;
 	private $curl;
 
